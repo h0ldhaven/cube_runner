@@ -32,7 +32,7 @@ nity
 .vscode/
 
 # cube_runner.slnx file
-.cube_runner.slnx
+cube_runner.slnx
 
 # Gradle cache directory
 .gradle/
